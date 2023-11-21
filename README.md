@@ -12,4 +12,4 @@
 - https://www.google.co.in/
 
 ## Image metadata
--http://exif.regex.info/
+- http://exif.regex.info/
