@@ -18,7 +18,7 @@
 
 
 - Hunter.io
-- https://hunter.io/
+https://hunter.io/
 - Phonebook.cz
 https://phonebook.cz/
 - VoilaNorbert
