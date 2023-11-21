@@ -2,8 +2,8 @@
 
 ## Reverse Image Search
 
-https://tineye.com/
+- https://tineye.com/
 
-https://yandex.com/images/
+- https://yandex.com/images/
 
-https://www.google.co.in/
+- https://www.google.co.in/
