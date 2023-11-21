@@ -10,3 +10,6 @@
 - https://tineye.com/
 - https://yandex.com/images/
 - https://www.google.co.in/
+
+## Image metadata
+-http://exif.regex.info/
