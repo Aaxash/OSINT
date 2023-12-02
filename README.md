@@ -6,6 +6,12 @@
 - https://www.bing.com/
 - https://yandex.com/
 
+## Advance Search Engine Operators
+https://www.googleguide.com/print/adv_op_ref.pdf
+https://www.google.com/advanced_search
+https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
+https://duckduckgo.com/duckduckgo-help-pages/results/syntax/
+
 ## Reverse Image Search
 - https://tineye.com/
 - https://yandex.com/images/
