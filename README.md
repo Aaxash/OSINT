@@ -45,3 +45,8 @@ https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcn
 - https://haveibeenpwned.com/
 - https://snusbase.com/
 - https://scylla.so/
+
+## Username OSINT
+- https://namechk.com/
+- https://whatsmyname.app/
+- https://namecheckup.com/
