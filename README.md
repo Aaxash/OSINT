@@ -63,3 +63,6 @@ https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcn
 - https://www.fastpeoplesearch.com/
 - https://www.fastbackgroundcheck.com/
 - https://www.truepeoplesearch.com/
+
+### Voter Records (US)
+- https://voterrecords.com/
