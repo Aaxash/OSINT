@@ -58,3 +58,6 @@ https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcn
 - https://www.peekyou.com/
 - https://www.411.com/
 - https://www.spokeo.com/
+- https://www.fastpeoplesearch.com/
+- https://www.fastbackgroundcheck.com/
+- https://www.truepeoplesearch.com/
