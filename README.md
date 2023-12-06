@@ -50,3 +50,6 @@ https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcn
 - https://namechk.com/
 - https://whatsmyname.app/
 - https://namecheckup.com/
+
+## People OSINT
+- https://www.whitepages.com/
