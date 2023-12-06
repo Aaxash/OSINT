@@ -73,4 +73,3 @@ https://email-checker.net/validate
 - https://www.infobel.com/
 - https://calleridtest.com/
 
-### Discovering BirthDates
