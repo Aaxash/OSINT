@@ -1,4 +1,4 @@
-# OSINT
+# Open Source Intelligence (OSINT)
 
 ## Search Engines
 - https://duckduckgo.com/
