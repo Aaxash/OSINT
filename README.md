@@ -52,6 +52,8 @@ https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcn
 - https://namecheckup.com/
 
 ## People OSINT
+
+### Searching For People
 - https://www.whitepages.com/
 - https://thatsthem.com/
 - https://webmii.com/
