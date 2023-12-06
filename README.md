@@ -36,3 +36,11 @@ https://tools.verifyemailaddress.io/
 https://email-checker.net/validate
 - Clearbit-Connect
 https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
+
+
+## Password OSINT (Breached Creds)
+- https://dehashed.com/
+- https://weleakinfo.io/
+- https://leakcheck.io/
+- https://haveibeenpwned.com/
+- https://snusbase.com/
