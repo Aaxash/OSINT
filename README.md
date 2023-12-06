@@ -30,13 +30,14 @@ https://hunter.io/
 https://phonebook.cz/
 - VoilaNorbert
 https://www.voilanorbert.com/
+- Clearbit-Connect
+https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
+
+### Email Checker
 - Email-Hippo
 https://tools.verifyemailaddress.io/
 - Email-Checker
 https://email-checker.net/validate
-- Clearbit-Connect
-https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
-
 
 ## Password OSINT (Breached Creds)
 - https://dehashed.com/
