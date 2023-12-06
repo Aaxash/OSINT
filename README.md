@@ -53,3 +53,8 @@ https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcn
 
 ## People OSINT
 - https://www.whitepages.com/
+- https://thatsthem.com/
+- https://webmii.com/
+- https://www.peekyou.com/
+- https://www.411.com/
+- https://www.spokeo.com/
