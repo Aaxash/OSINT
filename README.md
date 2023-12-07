@@ -78,10 +78,21 @@ https://email-checker.net/validate
 ### Twitter OSINT
 - https://twitter.com/search-advanced
 - https://www.tweetbinder.com/blog/twitter-advanced-search/
+From To Users
 ```
 from:username
 to:username
+```
+Search by Languages
+```
 lang:en
+```
+Search by Time
+```
 since:YYYY-MM-DD
 untill:YYYY-MM-DD
+```
+Search by GeoCode
+```
+geocode:19.0821775,72.7163741,10km
 ```
