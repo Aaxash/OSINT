@@ -105,3 +105,5 @@ geocode:19.0821775,72.7163741,10km
 - https://sleepingtime.org/
 - http://spoonbill.io/
 - https://tweetdeck.com/ (Paid Tool by Twiter)
+
+### FaceBook OSINT
