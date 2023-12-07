@@ -77,3 +77,9 @@ https://email-checker.net/validate
 
 ### Twitter OSINT
 - https://twitter.com/search-advanced
+```
+from:username
+to:username
+since:YYYY-MM-DD
+untill:YYYY-MM-DD
+```
