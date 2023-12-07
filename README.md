@@ -73,3 +73,7 @@ https://email-checker.net/validate
 - https://www.infobel.com/
 - https://calleridtest.com/
 
+## Social Media OSINT
+
+### Twitter OSINT
+- https://twitter.com/search-advanced
