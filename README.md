@@ -77,6 +77,7 @@ https://email-checker.net/validate
 
 ### Twitter OSINT
 - https://twitter.com/search-advanced
+- https://www.tweetbinder.com/blog/twitter-advanced-search/
 ```
 from:username
 to:username
