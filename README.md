@@ -109,3 +109,10 @@ geocode:19.0821775,72.7163741,10km
 ### FaceBook OSINT
 - https://intelx.io/tools?tab=facebook
 - https://sowdust.github.io/fb-search/
+
+### Instagram OSINT
+- https://codeofaninja.com/tools/find-instagram-user-id/
+- https://toolzu.com/
+- https://imginn.com/
+- https://wopita.com/
+
