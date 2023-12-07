@@ -80,6 +80,7 @@ https://email-checker.net/validate
 ```
 from:username
 to:username
+lang:en
 since:YYYY-MM-DD
 untill:YYYY-MM-DD
 ```
