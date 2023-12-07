@@ -116,3 +116,6 @@ geocode:19.0821775,72.7163741,10km
 - https://imginn.com/
 - https://wopita.com/
 
+### SnapChat OSINT
+- https://map.snapchat.com/
+
