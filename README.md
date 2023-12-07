@@ -107,3 +107,5 @@ geocode:19.0821775,72.7163741,10km
 - https://tweetdeck.com/ (Paid Tool by Twiter)
 
 ### FaceBook OSINT
+- https://intelx.io/tools?tab=facebook
+- https://sowdust.github.io/fb-search/
