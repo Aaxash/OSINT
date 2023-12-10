@@ -132,3 +132,4 @@ Other Reddit,Linkedin,Tiktok etc
 - https://visualping.io/
 - https://www.backlinkwatch.com/index.php
 - https://viewdns.info/
+- https://www.reddit.com/domain/{domain.com}/
