@@ -122,7 +122,7 @@ geocode:19.0821775,72.7163741,10km
 Other Reddit,Linkedin,Tiktok etc
 
 
-## WebSite OSINT
+## Website OSINT
 
 - https://builtwith.com/
 - https://centralops.net/co/
