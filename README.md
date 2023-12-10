@@ -140,3 +140,5 @@ Other Reddit, Linkedin, Tiktok etc
 - - -------------------------------------------------------------------------
 - https://www.shodan.io/
 - https://web.archive.org/
+
+## Business OSINT
