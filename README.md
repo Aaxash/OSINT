@@ -133,3 +133,7 @@ Other Reddit,Linkedin,Tiktok etc
 - https://www.backlinkwatch.com/index.php
 - https://viewdns.info/
 - https://www.reddit.com/domain/{domain.com}/
+
+- https://pentest-tools.com/information-gathering/find-subdomains-of-domain
+- https://crt.sh/
+- https://spyse.com/
