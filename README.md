@@ -137,3 +137,6 @@ Other Reddit,Linkedin,Tiktok etc
 - https://pentest-tools.com/information-gathering/find-subdomains-of-domain
 - https://crt.sh/
 - https://spyse.com/
+- - -------------------------------------------------------------------------
+- https://www.shodan.io/
+- https://web.archive.org/
