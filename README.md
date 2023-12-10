@@ -142,3 +142,6 @@ Other Reddit, Linkedin, Tiktok etc
 - https://web.archive.org/
 
 ## Business OSINT
+
+- https://opencorporates.com/
+- https://www.aihitdata.com/
