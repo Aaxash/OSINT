@@ -119,7 +119,7 @@ geocode:19.0821775,72.7163741,10km
 ### SnapChat OSINT
 - https://map.snapchat.com/
 
-Other Reddit,Linkedin,Tiktok etc
+Other Reddit, Linkedin, Tiktok etc
 
 
 ## Website OSINT
