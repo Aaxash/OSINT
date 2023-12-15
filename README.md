@@ -46,6 +46,7 @@ https://email-checker.net/validate
 - https://haveibeenpwned.com/
 - https://snusbase.com/
 - https://scylla.so/
+- https://breachdirectory.org/
 
 ## Username OSINT
 - https://namechk.com/
