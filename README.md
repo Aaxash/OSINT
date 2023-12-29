@@ -53,8 +53,9 @@ https://email-checker.net/validate
 
 ## Username OSINT
 - https://namechk.com/
-- https://whatsmyname.app/
+- https://whatsmyname.app/ (https://github.com/WebBreacher/WhatsMyName)
 - https://namecheckup.com/
+- https://github.com/sherlock-project/sherlock
 
 ## People OSINT
 
