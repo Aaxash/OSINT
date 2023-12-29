@@ -48,6 +48,8 @@ https://email-checker.net/validate
 - https://snusbase.com/
 - https://scylla.so/
 - https://breachdirectory.org/
+- https://github.com/khast3x/h8mail
+- https://github.com/hmaverickadams/breach-parse/
 
 ## Username OSINT
 - https://namechk.com/
