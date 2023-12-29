@@ -112,6 +112,7 @@ geocode:19.0821775,72.7163741,10km
 - http://spoonbill.io/
 - https://tweetdeck.com/ (Paid Tool by Twiter)
 - https://github.com/twintproject/twint
+- https://github.com/JustAnotherArchivist/snscrape
 
 ### FaceBook OSINT
 - https://intelx.io/tools?tab=facebook
