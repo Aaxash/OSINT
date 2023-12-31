@@ -48,6 +48,7 @@ https://email-checker.net/validate
 - https://snusbase.com/
 - https://scylla.so/
 - https://breachdirectory.org/
+- https://search.0t.rocks/
 - https://github.com/khast3x/h8mail
 - https://github.com/hmaverickadams/breach-parse/
 
